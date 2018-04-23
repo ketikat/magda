@@ -9,7 +9,7 @@ For each of the following points, we add 20% to the data quality rating. These w
 *    Is the data available on the web in any format with an open license?
 *    Is it available as structured, machine-readable data? For example, an excel file instead of an image scan of the same table.
 *    Is it available in a non-proprietary format? Such as CSV instead of Excel.
-*    Does the data have URIs to mark things. so that people can reference your stuff?
+*    Does the data have URIs to mark things so that people can reference your stuff?
 *    Do you link your data to other data, or provide information on how the data was collected to provide context?
 
 We will continue to update the data quality rating as research continues. If you have any feedback get in touch, or if you're passionate about data quality, get involved in the [Australian Government Linked Data Working Group.](http://linked.data.gov.au/)

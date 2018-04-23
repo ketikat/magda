@@ -61,7 +61,7 @@
             "name": "pancake.min.css"
         },
         "sass": {
-            "modules": false,
+            "modules": true,
             "location": "pancake/sass/",
             "name": "pancake.scss"
         }

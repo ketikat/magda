@@ -5,8 +5,12 @@
     clear: both;
     .dataset-summary-title {
         @include AU-fontgrid(md);
+        color: $body;
         font-weight: 300;
         margin-bottom: 8px;
+        &:hover {
+            color: white;
+        }
     }
 
     .dataset-summary-publisher {

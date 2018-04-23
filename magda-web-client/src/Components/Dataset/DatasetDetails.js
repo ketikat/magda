@@ -42,7 +42,11 @@ class DatasetDetails extends Component {
                     </Medium>
                 </div>
                 <div className="quality-rating-box">
-                    <Link to="/page/dataset-quality">Open Data Quality</Link>:
+                    <span>
+                        <Link to="/page/dataset-quality">
+                            Open Data Quality
+                        </Link>:
+                    </span>
                     &nbsp;&nbsp;
                     <StarRating stars={dataset.linkedDataRating} />
                 </div>

@@ -4,7 +4,6 @@
     border-bottom: 0;
     padding: 0 8px;
     @media (min-width: $medium) {
-        font-family: $font-base;
         font-size: 33px;
         font-weight: 300;
         height: 57px;
@@ -16,6 +15,7 @@
 
 .searchBox-switcher {
     &.none-home {
+        background: rgba(245, 245, 245, 0.8);
         .searchBox {
             background-color: transparent;
         }
@@ -67,7 +67,7 @@
         position: absolute;
         right: 0;
         padding: 11px;
-        bottom: 0;
+        bottom: 7px;
         border: 2px solid transparent;
         box-sizing: border-box;
         display: inline-block;
